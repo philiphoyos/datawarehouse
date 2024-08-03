@@ -1,0 +1,12 @@
+{
+    "source": "products.csv",
+    "extraction_date": "2023-06-01",
+    "num_records": 4,
+    "fields": [
+        {"name": "product_id", "type": "integer"},
+        {"name": "product_name", "type": "string"},
+        {"name": "category", "type": "string"},
+        {"name": "price", "type": "float"},
+        {"name": "product_description", "type": "string"}
+    ]
+}

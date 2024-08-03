@@ -1,0 +1,5 @@
+product_id,product_name,category,price,last_modified
+1,Product A,Category 1,10.0,2023-06-01
+2,Product B,Category 2,20.0,2023-06-02
+3,Product C,Category 1,15.0,2023-06-03
+4,Product D,Category 3,30.0,2023-06-04

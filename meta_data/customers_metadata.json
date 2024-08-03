@@ -1,0 +1,10 @@
+{
+    "source": "customers.csv",
+    "extraction_date": "2023-06-01",
+    "num_records": 3,
+    "fields": [
+        {"name": "customer_id", "type": "integer"},
+        {"name": "customer_name", "type": "string"},
+        {"name": "email", "type": "string"}
+    ]
+}

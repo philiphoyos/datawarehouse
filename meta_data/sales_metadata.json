@@ -1,0 +1,13 @@
+{
+    "source": "sales.csv",
+    "extraction_date": "2023-06-01",
+    "num_records": 3,
+    "fields": [
+        {"name": "sale_id", "type": "integer"},
+        {"name": "product_id", "type": "integer"},
+        {"name": "customer_id", "type": "integer"},
+        {"name": "quantity", "type": "integer"},
+        {"name": "sale_date", "type": "date"},
+        {"name": "updated_at", "type": "timestamp"}
+    ]
+}
