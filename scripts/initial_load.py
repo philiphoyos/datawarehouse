@@ -1,4 +1,5 @@
 from etl.extract import extract_data, stage_data
+# from ..etl.extract import extract_data, stage_data
 
 if __name__ == '__main__':
     # Extract products data from a CSV file and stage it as a Parquet file

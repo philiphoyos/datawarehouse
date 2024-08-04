@@ -1,7 +1,7 @@
 import pandas as pd
 import uuid
 from etl.extract import extract_data
-from etl.transform import transform_data
+# from etl.transform import transform_data
 from etl.load import load_data
 
 def update_dimensions(source, destination):
